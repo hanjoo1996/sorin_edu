@@ -1,1 +1,13 @@
-{"username":"김한주","email":"hanjoo1996@gmail.com","pwd":"******!","privacy":"동의"}
+{
+  "members": [
+    {
+      "name": "테스트1",
+      "email": test@test,
+    
+    },
+    {
+      "name": "테스트2",
+      "email": tes2t@test,
+    }    
+  ]
+}
